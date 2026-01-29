@@ -1,1 +1,1 @@
-# AI-environment
+# AI - ML // Projects
